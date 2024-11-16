@@ -26,4 +26,4 @@ A visually appealing, feature-rich To-Do List application that helps users manag
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone https://github.com/Ayanda-Radebe/to-do-list-app.git
+   git clone https://github.com/Ayanda-Radebe/to-do.git
